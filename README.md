@@ -3,22 +3,17 @@ A simple Command Line Interface (CLI) based CRUD application in Java to manage s
 🎯 Objective
 Build a basic Java application to:
 
-Add new student records
-
-View all students
-
-Update existing records
-
-Delete students
+-> Add new student records
+-> View all students
+-> Update existing records
+-> Delete students
 
 🛠️ Technologies Used
 Java
 
-ArrayList (for data storage)
-
-Scanner (for user input)
-
-Command Line Interface (CLI)
+-> ArrayList (for data storage)
+-> Scanner (for user input)
+-> Command Line Interface (CLI)
 
 🧱 Features
 ✅ Add a new student
